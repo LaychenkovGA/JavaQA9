@@ -1,4 +1,4 @@
-package ru.netology.javaqa.javaqamvn.StatsService;
+package ru.netology.javaqa.javaqamvn.statistic;
 public class StatisticsService {
     public long findMax(long[] incomes) {
         long currentMax = incomes[0];
